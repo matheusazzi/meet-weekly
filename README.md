@@ -16,3 +16,4 @@ Please Contribute.
 - [Django Weekly](http://djangoweek.ly/)
 - [Ruby Weekly](http://rubyweekly.com/)
 - [PHP Weekly](http://phpweekly.info/)
+- [NoSQL Weekly](http://www.nosqlweekly.com/)
