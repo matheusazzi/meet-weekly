@@ -17,3 +17,4 @@ Please Contribute.
 - [Ruby Weekly](http://rubyweekly.com/)
 - [PHP Weekly](http://phpweekly.info/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
+- [AngularJS Weekly](http://www.ng-newsletter.com/)
