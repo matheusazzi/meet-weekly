@@ -18,4 +18,6 @@ Please Contribute.
 - [PHP Weekly](http://phpweekly.info/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
 - [AngularJS Weekly](http://www.ng-newsletter.com/)
-- [Ember Weekly](http://emberweekly.com//)
+- [Ember Weekly](http://emberweekly.com/)
+- [Redis Weekly](http://redisweekly.com/)
+- [Postgres Weekly](http://postgresweekly.com/)
