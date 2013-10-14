@@ -22,3 +22,4 @@ Please Contribute.
 - [Ember Weekly](http://emberweekly.com/)
 - [Redis Weekly](http://redisweekly.com/)
 - [Postgres Weekly](http://postgresweekly.com/)
+- [Android Weekly](http://androidweekly.net/)
