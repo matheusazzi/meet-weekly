@@ -11,6 +11,7 @@ Please Contribute.
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
+- [Web Design Weekly](http://web-design-weekly.com/)
 - [Node Weekly](http://nodeweekly.com/)
 - [Python Weekly](http://www.pythonweekly.com/)
 - [Django Weekly](http://djangoweek.ly/)
