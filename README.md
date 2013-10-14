@@ -23,3 +23,4 @@ Please Contribute.
 - [Redis Weekly](http://redisweekly.com/)
 - [Postgres Weekly](http://postgresweekly.com/)
 - [Android Weekly](http://androidweekly.net/)
+- [Gamedev Weekly](http://gamedevweekly.com/)
