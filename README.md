@@ -24,3 +24,4 @@ Please Contribute.
 - [Postgres Weekly](http://postgresweekly.com/)
 - [Android Weekly](http://androidweekly.net/)
 - [Gamedev Weekly](http://gamedevweekly.com/)
+- [iosDev Weekly](http://iosdevweekly.com/)
