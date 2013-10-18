@@ -25,3 +25,4 @@ Please Contribute.
 - [Android Weekly](http://androidweekly.net/)
 - [Gamedev Weekly](http://gamedevweekly.com/)
 - [iosDev Weekly](http://iosdevweekly.com/)
+- [Devops Weekly](http://devopsweekly.com/)
