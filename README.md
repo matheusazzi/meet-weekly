@@ -15,6 +15,7 @@ Please Contribute.
 - [HMTL5 Weekly](http://html5weekly.com/)
 - [iosDev Weekly](http://iosdevweekly.com/)
 - [Javascript Weekly](http://javascriptweekly.com/)
+- [Mac Dev Weekly](http://macdevweekly.com/)
 - [Node Weekly](http://nodeweekly.com/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
 - [PHP Weekly](http://phpweekly.info/)
