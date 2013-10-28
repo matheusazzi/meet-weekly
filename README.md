@@ -25,6 +25,7 @@ Please Contribute.
 - [Redis Weekly](http://redisweekly.com/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
+- [Sidebar.io](http://sidebar.io/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
