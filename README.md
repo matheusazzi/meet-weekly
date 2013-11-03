@@ -7,6 +7,7 @@ Please Contribute.
 - [Android Weekly](http://androidweekly.net/)
 - [AngularJS Weekly](http://www.ng-newsletter.com/)
 - [BrazilJS Weekly](http://braziljs.org/)
+- [Coder Weekly](http://www.coderweekly.com/)
 - [CSS Weekly](http://css-weekly.com/)
 - [Devops Weekly](http://devopsweekly.com/)
 - [Django Weekly](http://djangoweek.ly/)
