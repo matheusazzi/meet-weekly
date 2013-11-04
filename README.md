@@ -32,3 +32,5 @@ Please Contribute.
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
+
+Maintained by awsome [contributors](https://github.com/matheusazzi/meet-weekly/graphs/contributors).
