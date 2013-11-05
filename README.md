@@ -17,6 +17,7 @@ Please Contribute.
 - [Golang Weekly](http://www.golangweekly.com/)
 - [HMTL5 Weekly](http://html5weekly.com/)
 - [iosDev Weekly](http://iosdevweekly.com/)
+- [Java Weekly Bytes](http://javaweeklybytes.com/)
 - [Javascript Weekly](http://javascriptweekly.com/)
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Node Weekly](http://nodeweekly.com/)
