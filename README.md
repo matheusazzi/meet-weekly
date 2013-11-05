@@ -21,6 +21,7 @@ Please Contribute.
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Node Weekly](http://nodeweekly.com/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
+- [Perl Weekly](http://perlweekly.com/)
 - [PHP Weekly](http://phpweekly.info/)
 - [Postgres Weekly](http://postgresweekly.com/)
 - [Python Weekly](http://www.pythonweekly.com/)
