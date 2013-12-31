@@ -6,6 +6,7 @@ Please Contribute.
 
 - [Android Weekly](http://androidweekly.net/)
 - [AngularJS Weekly](http://www.ng-newsletter.com/)
+- [Backbone.js Weekly](http://www.backboneweekly.com/)
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 - [BrazilJS Weekly](http://braziljs.org/)
 - [Coder Weekly](http://www.coderweekly.com/)
