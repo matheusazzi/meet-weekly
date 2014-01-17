@@ -23,6 +23,7 @@ Please Contribute.
 - [iosDev Weekly](http://iosdevweekly.com/)
 - [Java Weekly Bytes](http://javaweeklybytes.com/)
 - [Javascript Weekly](http://javascriptweekly.com/)
+- [LLVM Weekly](http://llvmweekly.org/)
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Node Weekly](http://nodeweekly.com/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
