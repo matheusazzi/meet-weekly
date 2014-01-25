@@ -17,6 +17,7 @@ Please Contribute.
 - [Ember Weekly](http://emberweekly.com/)
 - [Front-end Rescue](http://us7.campaign-archive1.com/home/?u=658f6feef064b7cca5177eba6&id=4eeb350ba1)
 - [Gamedev Weekly](http://gamedevweekly.com/)
+- [Gamedev.js Weekly](http://weekly.gamedevjs.com/)
 - [Golang Weekly](http://www.golangweekly.com/)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [HMTL5 Weekly](http://html5weekly.com/)
