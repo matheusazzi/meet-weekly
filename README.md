@@ -41,6 +41,7 @@ Please Contribute.
 - [The Changelog Weekly](http://thechangelog.com/weekly/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 - [Vim Weekly](http://www.vimweekly.com/)
+- [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 
