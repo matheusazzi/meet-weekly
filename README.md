@@ -37,6 +37,7 @@ Please Contribute.
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
 - [Sidebar.io](http://sidebar.io/)
+- [Software Lead Weekly](http://softwareleadweekly.com/)
 - [Status Code](http://statuscode.org/)
 - [The Changelog Weekly](http://thechangelog.com/weekly/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
