@@ -39,6 +39,7 @@ Please Contribute.
 - [Ruby Weekly](http://rubyweekly.com/)
 - [SASS Weekly](http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d)
 - [Sidebar.io](http://sidebar.io/)
+- [Software Lead Weekly](http://softwareleadweekly.com/)
 - [Status Code](http://statuscode.org/)
 - [The Changelog Weekly](http://thechangelog.com/weekly/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
