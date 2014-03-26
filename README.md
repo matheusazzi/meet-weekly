@@ -14,6 +14,7 @@ Please Contribute.
 - [DB Weekly](http://dbweekly.com/)
 - [Devops Weekly](http://devopsweekly.com/)
 - [Django Weekly](http://djangoweek.ly/)
+- [Elixir Fountain](http://elixir-fountain.com/)
 - [Ember Weekly](http://emberweekly.com/)
 - [Front-end Rescue](http://us7.campaign-archive1.com/home/?u=658f6feef064b7cca5177eba6&id=4eeb350ba1)
 - [Gamedev Weekly](http://gamedevweekly.com/)
