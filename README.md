@@ -28,6 +28,7 @@ Please Contribute.
 - [LLVM Weekly](http://llvmweekly.org/)
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
+- [Mobile Web Weekly](http://mobilewebweekly.co/)
 - [Node Weekly](http://nodeweekly.com/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
 - [Perl Weekly](http://perlweekly.com/)
