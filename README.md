@@ -9,6 +9,7 @@ Please Contribute.
 - [Backbone.js Weekly](http://www.backboneweekly.com/)
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 - [BrazilJS Weekly](http://braziljs.org/)
+- [C# Weekly](http://csharpweekly.co/)
 - [Coder Weekly](http://www.coderweekly.com/)
 - [CSS Weekly](http://css-weekly.com/)
 - [DB Weekly](http://dbweekly.com/)
