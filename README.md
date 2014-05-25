@@ -51,5 +51,6 @@ Please Contribute.
 - [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
+- [WP Mail](http://wpmail.me/)
 
 Maintained by awesome [contributors](https://github.com/matheusazzi/meet-weekly/graphs/contributors).
