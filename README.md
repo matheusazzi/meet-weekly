@@ -53,5 +53,6 @@ Please Contribute.
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [WP Mail](http://wpmail.me/)
+- [F# Weekly](http://fsharpweekly.com/)
 
 Maintained by awesome [contributors](https://github.com/matheusazzi/meet-weekly/graphs/contributors).
