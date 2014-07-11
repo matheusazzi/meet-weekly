@@ -4,6 +4,7 @@ Meet-weekly
 A list of weekly's for developers.
 Please Contribute.
 
+- [5 minutes of Javascript](http://five-js.envylabs.com/)
 - [A Drip of Javascript](http://designpepper.com/a-drip-of-javascript/)
 - [Android Weekly](http://androidweekly.net/)
 - [AngularJS Weekly](http://www.ng-newsletter.com/)
