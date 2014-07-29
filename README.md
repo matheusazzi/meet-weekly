@@ -52,6 +52,7 @@ Please Contribute.
 - [Vim Weekly](http://www.vimweekly.com/)
 - [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
 - [Web Design Weekly](http://web-design-weekly.com/)
+- [Web Performance News](http://www.webperformancenews.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [WP Mail](http://wpmail.me/)
 - [F# Weekly](http://fsharpweekly.com/)
