@@ -39,6 +39,7 @@ Please Contribute.
 - [PHP Weekly](http://phpweekly.info/)
 - [Postgres Weekly](http://postgresweekly.com/)
 - [Python Weekly](http://www.pythonweekly.com/)
+- [PyCoder's Weekly](http://pycoders.com/)
 - [Raspberry Pi Weekly](http://www.raspiweekly.com/)
 - [Redis Weekly](http://redisweekly.com/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
