@@ -15,6 +15,7 @@ Please Contribute.
 - [Coder Weekly](http://www.coderweekly.com/)
 - [CSS Weekly](http://css-weekly.com/)
 - [DB Weekly](http://dbweekly.com/)
+- [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/)
 - [Devops Weekly](http://devopsweekly.com/)
 - [Django Weekly](http://djangoweek.ly/)
 - [DotNet Weekly](http://www.dotnetweekly.com/)
