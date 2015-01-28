@@ -20,6 +20,7 @@ Please Contribute.
 - [Django Weekly](http://djangoweek.ly/)
 - [DotNet Weekly](http://www.dotnetweekly.com/)
 - [Elixir Fountain](http://elixir-fountain.com/)
+- [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 - [Ember Weekly](http://emberweekly.com/)
 - [F# Weekly](http://fsharpweekly.com/)
 - [Front-end Rescue](http://us7.campaign-archive1.com/home/?u=658f6feef064b7cca5177eba6&id=4eeb350ba1)
