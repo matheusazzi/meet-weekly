@@ -14,6 +14,7 @@ Please Contribute.
 - [C# Weekly](http://csharpweekly.co/)
 - [Coder Weekly](http://www.coderweekly.com/)
 - [CSS Weekly](http://css-weekly.com/)
+- [Data Elixir](http://dataelixir.com/)
 - [DB Weekly](http://dbweekly.com/)
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/)
 - [Devops Weekly](http://devopsweekly.com/)
