@@ -18,6 +18,7 @@ Please Contribute.
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/)
 - [Devops Weekly](http://devopsweekly.com/)
 - [Django Weekly](http://djangoweek.ly/)
+- [Docker Weekly](https://www.docker.com/subscribe_newsletter/)
 - [DotNet Weekly](http://www.dotnetweekly.com/)
 - [Elixir Fountain](http://elixir-fountain.com/)
 - [Elixir Radar](http://plataformatec.com.br/elixir-radar)
