@@ -64,6 +64,7 @@ Please Contribute.
 - [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Performance News](http://www.webperformancenews.com/)
+- [Web Operations Weekly](http://webopsweekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [WP Mail](http://wpmail.me/)
 
