@@ -13,6 +13,7 @@ Please Contribute.
 - [BrazilJS Weekly](http://braziljs.org/)
 - [C# Weekly](http://csharpweekly.co/)
 - [Coder Weekly](http://www.coderweekly.com/)
+- [Container Weekly](https://tinyletter.com/containerweekly)
 - [CSS Weekly](http://css-weekly.com/)
 - [Data Elixir](http://dataelixir.com/)
 - [DB Weekly](http://dbweekly.com/)
