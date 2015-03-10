@@ -12,6 +12,7 @@ Please Contribute.
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 - [BrazilJS Weekly](http://braziljs.org/)
 - [C# Weekly](http://csharpweekly.co/)
+- [Cloud Developer Weekly](http://signup.launchany.com/cloudweekly)
 - [Coder Weekly](http://www.coderweekly.com/)
 - [Container Weekly](https://tinyletter.com/containerweekly)
 - [CSS Weekly](http://css-weekly.com/)
