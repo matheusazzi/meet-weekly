@@ -11,6 +11,7 @@ Please Contribute.
 - [Backbone.js Weekly](http://www.backboneweekly.com/)
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 - [BrazilJS Weekly](http://braziljs.org/)
+- [Briefs on Ansible](https://devopsu.com/newsletters/ansible-weekly-newsletter.html)
 - [C# Weekly](http://csharpweekly.co/)
 - [Coder Weekly](http://www.coderweekly.com/)
 - [Container Weekly](https://tinyletter.com/containerweekly)
