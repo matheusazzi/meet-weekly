@@ -13,6 +13,7 @@ Please Contribute.
 - [BrazilJS Weekly](http://braziljs.org/)
 - [Briefs on Ansible](https://devopsu.com/newsletters/ansible-weekly-newsletter.html)
 - [C# Weekly](http://csharpweekly.co/)
+- [Cloud Developer Weekly](http://signup.launchany.com/cloudweekly)
 - [Coder Weekly](http://www.coderweekly.com/)
 - [Container Weekly](https://tinyletter.com/containerweekly)
 - [CSS Weekly](http://css-weekly.com/)
