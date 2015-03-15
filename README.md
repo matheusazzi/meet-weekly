@@ -38,6 +38,7 @@ Please Contribute.
 - [iosDev Weekly](http://iosdevweekly.com/)
 - [Java Weekly Bytes](http://javaweeklybytes.com/)
 - [Javascript Weekly](http://javascriptweekly.com/)
+- [Lavarel News](https://laravel-news.com/newsletter/)
 - [LLVM Weekly](http://llvmweekly.org/)
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
