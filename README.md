@@ -35,6 +35,7 @@ Please Contribute.
 - [Golang Weekly](http://www.golangweekly.com/)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [HMTL5 Weekly](http://html5weekly.com/)
+- [iOS GameDev Weekly](http://iosgamedevweekly.com/)
 - [iosDev Weekly](http://iosdevweekly.com/)
 - [Java Weekly Bytes](http://javaweeklybytes.com/)
 - [Javascript Weekly](http://javascriptweekly.com/)
