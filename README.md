@@ -70,6 +70,7 @@ Please Contribute.
 - [This Week in Swift](https://swiftnews.curated.co/)
 - [Vim Weekly](http://www.vimweekly.com/)
 - [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
+- [Web Components Weekly](http://webcomponentsweekly.me/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Performance News](http://www.webperformancenews.com/)
 - [Web Operations Weekly](http://webopsweekly.com/)
