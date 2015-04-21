@@ -18,6 +18,7 @@ Please Contribute.
 - [Container Weekly](https://tinyletter.com/containerweekly)
 - [CSS Weekly](http://css-weekly.com/)
 - [Data Elixir](http://dataelixir.com/)
+- [Data Science Weekly](http://www.datascienceweekly.org/newsletters)
 - [DB Weekly](http://dbweekly.com/)
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/)
 - [Devops Weekly](http://devopsweekly.com/)
