@@ -42,6 +42,7 @@ Please Contribute.
 - [Java Weekly Bytes](http://javaweeklybytes.com/)
 - [Javascript Weekly](http://javascriptweekly.com/)
 - [Lavarel News](https://laravel-news.com/newsletter/)
+- [Laravel Weekly](http://laravelweekly.com/)
 - [LLVM Weekly](http://llvmweekly.org/)
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
