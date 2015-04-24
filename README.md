@@ -18,6 +18,8 @@ Please Contribute.
 - [Container Weekly](https://tinyletter.com/containerweekly)
 - [CSS Weekly](http://css-weekly.com/)
 - [Data Elixir](http://dataelixir.com/)
+- [Data Science Weekly](http://www.datascienceweekly.org/newsletters)
+- [Dart Weekly](http://dartweekly.com/)
 - [DB Weekly](http://dbweekly.com/)
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/)
 - [Devops Weekly](http://devopsweekly.com/)
@@ -41,7 +43,8 @@ Please Contribute.
 - [iosDev Weekly](http://iosdevweekly.com/)
 - [Java Weekly Bytes](http://javaweeklybytes.com/)
 - [Javascript Weekly](http://javascriptweekly.com/)
-- [Lavarel News](https://laravel-news.com/newsletter/)
+- [Laravel News](https://laravel-news.com/newsletter/)
+- [Laravel Weekly](http://laravelweekly.com/)
 - [LLVM Weekly](http://llvmweekly.org/)
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
@@ -77,6 +80,7 @@ Please Contribute.
 - [Web Performance News](http://www.webperformancenews.com/)
 - [Web Operations Weekly](http://webopsweekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
+- [WebRTC Weekly](https://webrtcweekly.com/)
 - [WP Mail](http://wpmail.me/)
 
 Maintained by awesome [contributors](https://github.com/matheusazzi/meet-weekly/graphs/contributors).
