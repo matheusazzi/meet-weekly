@@ -6,6 +6,7 @@ Please Contribute.
 
 - [5 minutes of Javascript](http://five-js.envylabs.com/)
 - [A Drip of Javascript](http://designpepper.com/a-drip-of-javascript/)
+- [AI Weekly](http://aiweekly.co/)
 - [Android Weekly](http://androidweekly.net/)
 - [AngularJS Weekly](http://www.ng-newsletter.com/)
 - [Backbone.js Weekly](http://www.backboneweekly.com/)
