@@ -22,6 +22,7 @@ Please Contribute.
 - [Data Science Weekly](http://www.datascienceweekly.org/newsletters)
 - [Dart Weekly](http://dartweekly.com/)
 - [DB Weekly](http://dbweekly.com/)
+- [Develop.Watch](http://develop.watch/)
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/)
 - [Devops Weekly](http://devopsweekly.com/)
 - [Django Weekly](http://djangoweek.ly/)
