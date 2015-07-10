@@ -54,6 +54,7 @@ Please Contribute.
 - [Mobile Web Weekly](http://mobilewebweekly.co/)
 - [Node Weekly](http://nodeweekly.com/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
+- [NPM Weekly](https://www.npmjs.com/npm-weekly)
 - [Perl Weekly](http://perlweekly.com/)
 - [PHP Weekly](http://phpweekly.info/)
 - [Postgres Weekly](http://postgresweekly.com/)
