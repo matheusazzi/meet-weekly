@@ -86,6 +86,7 @@ Please Contribute.
 - [Web Operations Weekly](http://webopsweekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [WebRTC Weekly](https://webrtcweekly.com/)
+- [Weekly Programming Digest](http://programmingdigest.net/)
 - [WP Mail](http://wpmail.me/)
 
 Maintained by awesome [contributors](https://github.com/matheusazzi/meet-weekly/graphs/contributors).
