@@ -78,6 +78,7 @@ Please Contribute.
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 - [This Week in Rails](https://rails-weekly.ongoodbits.com/)
 - [This Week in Swift](https://swiftnews.curated.co/)
+- [Unity Weekly](http://unityweekly.com/)
 - [Vim Weekly](http://www.vimweekly.com/)
 - [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
 - [Web Components Weekly](http://webcomponentsweekly.me/)
