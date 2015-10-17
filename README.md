@@ -73,6 +73,7 @@ Please Contribute.
 - [Swift Coder](http://swift-coder.info/)
 - [Swift Dev Weekly](http://swiftdevweekly.com/)
 - [Swift Developer Weekly](http://swiftdevweekly.co/)
+- [Swift Sandbox](http://swiftsandbox.io/)
 - [Swift Weekly](http://swiftweekly.com/)
 - [The Changelog Weekly](http://thechangelog.com/weekly/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
