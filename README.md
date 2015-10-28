@@ -62,6 +62,7 @@ Please Contribute.
 - [Python Weekly](http://www.pythonweekly.com/)
 - [Raspberry Pi Weekly](http://www.raspiweekly.com/)
 - [React.js Newsletter](http://reactjsnewsletter.com/)
+- [Real Time Weekly](http://realtimeweekly.co/)
 - [Redis Weekly](http://redisweekly.com/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
