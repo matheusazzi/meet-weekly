@@ -54,6 +54,7 @@ Please Contribute.
 - [Mac Dev Weekly](http://macdevweekly.com/)
 - [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 - [Mobile Web Weekly](http://mobilewebweekly.co/)
+- [NMOTW](http://nmotw.in/)
 - [Node Weekly](http://nodeweekly.com/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
 - [NPM Weekly](https://www.npmjs.com/npm-weekly)
