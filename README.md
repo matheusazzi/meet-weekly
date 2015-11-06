@@ -20,6 +20,7 @@ Please Contribute.
 - [Cron.Weekly](https://tinyletter.com/containerweekly)
 - [CSS Weekly](http://css-weekly.com/)
 - [Data Elixir](http://dataelixir.com/)
+- [Data is Plural](https://tinyletter.com/data-is-plural)
 - [Data Science Weekly](http://www.datascienceweekly.org/newsletters)
 - [Dart Weekly](http://dartweekly.com/)
 - [DB Weekly](http://dbweekly.com/)
