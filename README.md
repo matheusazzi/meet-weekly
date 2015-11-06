@@ -17,6 +17,7 @@ Please Contribute.
 - [Cloud Developer Weekly](http://signup.launchany.com/cloudweekly)
 - [Coder Weekly](http://www.coderweekly.com/)
 - [Container Weekly](https://tinyletter.com/containerweekly)
+- [Cron.Weekly](https://tinyletter.com/containerweekly)
 - [CSS Weekly](http://css-weekly.com/)
 - [Data Elixir](http://dataelixir.com/)
 - [Data Science Weekly](http://www.datascienceweekly.org/newsletters)
