@@ -15,6 +15,7 @@ Please Contribute.
 - [Briefs on Ansible](https://valdhaus.co/newsletters/ansible/)
 - [C# Digest](http://csharpdigest.net/)
 - [C# Weekly](http://csharpweekly.co/)
+- [Chatbots Weekly](http://www.chatbotsweekly.com/)
 - [Cloud Developer Weekly](http://signup.launchany.com/cloudweekly)
 - [Coder Weekly](http://www.coderweekly.com/)
 - [Container Weekly](https://tinyletter.com/containerweekly)
