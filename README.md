@@ -56,6 +56,7 @@ Please Contribute.
 - [LLVM Weekly](http://llvmweekly.org/)
 - [Mac Dev Weekly](http://swiftsandbox.io)
 - [Meteor Weekly](https://meteorhacks.com/meteor-weekly/)
+- [Microservice Weekly](https://microserviceweekly.com/)
 - [Mobile Web Weekly](http://mobilewebweekly.co/)
 - [NMOTW](http://nmotw.in/)
 - [Node Weekly](http://nodeweekly.com/)
