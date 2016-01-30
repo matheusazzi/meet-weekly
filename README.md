@@ -85,6 +85,7 @@ Please Contribute.
 - [Swift Developer Weekly](http://swiftdevweekly.co/)
 - [Swift Sandbox](http://swiftsandbox.io/)
 - [Swift Weekly](http://swiftweekly.com/)
+- [That Looks Neat](http://thatlooksne.at/)
 - [The Changelog Weekly](http://thechangelog.com/weekly/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 - [This Week in Rails](https://rails-weekly.ongoodbits.com/)
