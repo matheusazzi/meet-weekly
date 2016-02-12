@@ -42,6 +42,7 @@ Please Contribute.
 - [Front-end Rescue](http://us7.campaign-archive1.com/home/?u=658f6feef064b7cca5177eba6&id=4eeb350ba1)
 - [Gamedev Weekly](http://gamedevweekly.com/)
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/)
+- [GET PUT POST](https://tinyletter.com/getputpost)
 - [Golang Weekly](http://golangweekly.com/)
 - [Groovy Weekly](http://www.groovy-lang.org/groovy-weekly.html)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
