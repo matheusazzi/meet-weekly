@@ -35,6 +35,7 @@ Please Contribute.
 - [Elixir Digest](http://elixirdigest.net/)
 - [Elixir Fountain](http://elixir-fountain.com/)
 - [Elixir Radar](http://plataformatec.com.br/elixir-radar)
+- [Elm Weekly](http://www.elmweekly.nl/)
 - [Ember Weekly](http://emberweekly.com/)
 - [ES Weekly](http://esweekly.com/)
 - [F# Weekly](http://fsharpweekly.com/)
