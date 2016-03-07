@@ -66,6 +66,7 @@ Please Contribute.
 - [NPM Weekly](https://www.npmjs.com/npm-weekly)
 - [Perl Weekly](http://perlweekly.com/)
 - [PHP Weekly](http://phpweekly.info/)
+- [Pony Foo Weekly](https://ponyfoo.com/weekly)
 - [Postgres Weekly](http://postgresweekly.com/)
 - [Programming Digest](http://programmingdigest.net/)
 - [PyCoder's Weekly](http://pycoders.com/)
