@@ -4,12 +4,11 @@ Meet-weekly
 A list of weekly's for developers.
 Please Contribute.
 
-- [5 minutes of Javascript](http://five-js.envylabs.com/)
+- [Five JS](http://fivejs.codeschool.com/)
 - [A Drip of Javascript](http://adripofjavascript.com/a-drip-of-javascript/)
 - [AI Weekly](http://aiweekly.co/)
 - [Android Weekly](http://androidweekly.net/)
 - [AngularJS Weekly](http://www.ng-newsletter.com/)
-- [Backbone.js Weekly](http://www.backboneweekly.com/)
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 - [BrazilJS Weekly](http://braziljs.org/)
 - [Briefs on Ansible](https://valdhaus.co/newsletters/ansible/)
