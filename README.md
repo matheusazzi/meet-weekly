@@ -100,6 +100,7 @@ Please Contribute.
 - [Web Operations Weekly](http://webopsweekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [WebRTC Weekly](https://webrtcweekly.com/)
+- [Weekly Elixir](http://weeklyelixir.com/)
 - [Weekly MySQL News](http://mysqlnewsletter.com/)
 - [Weekly Programming Digest](http://programmingdigest.net/)
 - [WP Mail](http://wpmail.me/)
