@@ -45,7 +45,7 @@ Please Contribute.
 - [Groovy Weekly](http://www.groovy-lang.org/groovy-weekly.html)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Hadoop Weekly](http://www.hadoopweekly.com/)
-- [HMTL5 Weekly](http://html5weekly.com/)
+- [HTML5 Weekly](http://html5weekly.com/)
 - [iOS GameDev Weekly](http://iosgamedevweekly.com/)
 - [iosDev Weekly](http://iosdevweekly.com/)
 - [Java Weekly Bytes](http://javaweeklybytes.com/)
