@@ -61,6 +61,7 @@ Please Contribute.
 - [Node Weekly](http://nodeweekly.com/)
 - [NoSQL Weekly](http://www.nosqlweekly.com/)
 - [NPM Weekly](https://www.npmjs.com/npm-weekly)
+- [O'Reilly Programming Newsletter](http://www.oreilly.com/programming/newsletter.csp)
 - [Perl Weekly](http://perlweekly.com/)
 - [PHP Weekly](http://phpweekly.info/)
 - [Pony Foo Weekly](https://ponyfoo.com/weekly)
