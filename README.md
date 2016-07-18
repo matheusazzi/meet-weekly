@@ -39,6 +39,7 @@ Please Contribute.
 - [Elixir Digest](http://elixirdigest.net/)
 - [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 - [Elixir Fountain](http://elixir-fountain.com/)
+- [Elixir Weekly](https://elixirweekly.net/)
 - [Data Elixir](http://dataelixir.com/)
 - [Weekly Elixir](http://weeklyelixir.com/)
 
