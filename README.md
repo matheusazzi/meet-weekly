@@ -14,6 +14,7 @@ Please Contribute.
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/)
 - [React Digest](http://reactdigest.net/)
 - [React.js Newsletter](http://reactjsnewsletter.com/)
+- [React Status](http://react.statuscode.com/)
 - [Meteor Weekly](https://meteorhacks.com/meteor-weekly/)
 - [Node Weekly](http://nodeweekly.com/)
 - [NPM Weekly](https://www.npmjs.com/npm-weekly)
