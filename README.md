@@ -119,6 +119,7 @@ Please Contribute.
 - [The Changelog Weekly](http://thechangelog.com/weekly/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 - [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html)
+- [Cloud Development Weekly](http://clouddevweekly.co/)
 - [Web Operations Weekly](http://webopsweekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [WebRTC Weekly](https://webrtcweekly.com/)
