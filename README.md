@@ -115,6 +115,7 @@ Please Contribute.
 - [Web Performance News](http://www.webperformancenews.com/)
 - [Software Lead Weekly](http://softwareleadweekly.com/)
 - [Status Code](http://statuscode.org/)
+- [Technically Sentient](https://inside.com/technically-sentient)
 - [That Looks Neat](http://thatlooksne.at/)
 - [The Changelog Weekly](http://thechangelog.com/weekly/)
 - [The Modern Web Observer](http://appendto.com/modern-web-observer/)
