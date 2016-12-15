@@ -112,6 +112,7 @@ Please Contribute.
 - [Programming Digest](http://programmingdigest.net/)
 - [Raspberry Pi Weekly](http://www.raspiweekly.com/)
 - [Real Time Weekly](http://realtimeweekly.co/)
+- [Ship It](http://shipit.works/)
 - [Web Performance News](http://www.webperformancenews.com/)
 - [Software Lead Weekly](http://softwareleadweekly.com/)
 - [Status Code](http://statuscode.org/)
