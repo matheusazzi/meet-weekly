@@ -105,6 +105,7 @@ Please Contribute.
 - [Hadoop Weekly](http://www.hadoopweekly.com/)
 - [LLVM Weekly](http://llvmweekly.org/)
 - [iOS GameDev Weekly](http://iosgamedevweekly.com/)
+- [ML Weekly](http://mlweekly.com/)
 - [Microservice Weekly](https://microserviceweekly.com/)
 - [Mobile Web Weekly](http://mobilewebweekly.co/)
 - [O'Reilly Programming Newsletter](http://www.oreilly.com/programming/newsletter.csp)
