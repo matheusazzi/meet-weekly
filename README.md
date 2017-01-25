@@ -98,6 +98,7 @@ Please Contribute.
 - [Android Weekly](http://androidweekly.net/)
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 - [Briefs on Ansible](https://valdhaus.co/newsletters/ansible/)
+- [Bulletproof TLS Newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/)
 - [Chatbots Weekly](http://www.chatbotsweekly.com/)
 - [Data Science Weekly](http://www.datascienceweekly.org/newsletters)
 - [Gamedev Weekly](http://gamedevweekly.com/)
