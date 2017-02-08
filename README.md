@@ -115,6 +115,7 @@ Please Contribute.
 - [Real Time Weekly](http://realtimeweekly.co/)
 - [Ship It](http://shipit.works/)
 - [Web Performance News](http://www.webperformancenews.com/)
+- [Security Newsletter](https://securitynewsletter.co/)
 - [Software Lead Weekly](http://softwareleadweekly.com/)
 - [Status Code](http://statuscode.org/)
 - [Technically Sentient](https://inside.com/technically-sentient)
