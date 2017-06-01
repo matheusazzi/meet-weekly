@@ -46,6 +46,7 @@ Please Contribute.
 - [Laravel News](https://laravel-news.com/newsletter/)
 - [Laravel Weekly](http://laravelweekly.com/)
 - [WP Mail](http://wpmail.me/)
+- [A Semana PHP](https://www.getrevue.co/profile/asemanaphp)
 
 ### Python
 - [Python Weekly](http://www.pythonweekly.com/)
