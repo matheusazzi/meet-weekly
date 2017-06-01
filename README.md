@@ -42,11 +42,11 @@ Please Contribute.
 - [Elixir Weekly](https://elixirweekly.net/)
 
 ### PHP
+- [A Semana PHP](https://www.getrevue.co/profile/asemanaphp)
 - [PHP Weekly](http://phpweekly.info/)
 - [Laravel News](https://laravel-news.com/newsletter/)
 - [Laravel Weekly](http://laravelweekly.com/)
 - [WP Mail](http://wpmail.me/)
-- [A Semana PHP](https://www.getrevue.co/profile/asemanaphp)
 
 ### Python
 - [Python Weekly](http://www.pythonweekly.com/)
@@ -80,8 +80,8 @@ Please Contribute.
 - [Docker Weekly](https://www.docker.com/newsletter-subscription)
 
 ### Golang
-- [Golang Weekly](http://golangweekly.com/)
 - [A Semana Go](https://www.getrevue.co/profile/a-semana-go)
+- [Golang Weekly](http://golangweekly.com/)
 
 ### F#
 - [F# Weekly](http://fsharpweekly.com/)
@@ -97,6 +97,7 @@ Please Contribute.
 
 ### Other
 - [AI Weekly](http://aiweekly.co/)
+- [Além do Código](https://alemdocodigo.com.br/)
 - [Android Weekly](http://androidweekly.net/)
 - [Big Data Weekly](http://www.bigdataweekly.com/)
 - [Briefs on Ansible](https://valdhaus.co/newsletters/ansible/)
