@@ -81,6 +81,7 @@ Please Contribute.
 
 ### Golang
 - [Golang Weekly](http://golangweekly.com/)
+- [A Semana Go](https://www.getrevue.co/profile/a-semana-go)
 
 ### F#
 - [F# Weekly](http://fsharpweekly.com/)
