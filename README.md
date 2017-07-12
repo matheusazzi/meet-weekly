@@ -131,5 +131,6 @@ Please Contribute.
 - [Web Operations Weekly](http://webopsweekly.com/)
 - [Web Tools Weekly](http://webtoolsweekly.com/)
 - [WebRTC Weekly](https://webrtcweekly.com/)
+- [Better Dev Link Weekly](https://betterdev.link/)
 
 Maintained by awesome [contributors](https://github.com/matheusazzi/meet-weekly/graphs/contributors).
