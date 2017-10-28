@@ -108,6 +108,7 @@ Please Contribute.
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Hadoop Weekly](http://www.hadoopweekly.com/)
 - [LLVM Weekly](http://llvmweekly.org/)
+- [Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
 - [iOS GameDev Weekly](http://iosgamedevweekly.com/)
 - [ML Weekly](http://mlweekly.com/)
 - [Microservice Weekly](https://microserviceweekly.com/)
